@@ -9,9 +9,6 @@
   margin-top: -5px;
 }
 
-#app > img {
-  width: 64px;
-}
 #app > h2 {
   align-self: flex-start; /*Colocar o próprio elemento (h2) no início do parágrafo*/
   margin-top: 104px;
